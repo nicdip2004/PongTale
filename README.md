@@ -4,7 +4,7 @@
 A regular pong game with a bit of twist? Yes, it's Pong with Undertale Character. Play as Frisk the Human and compete in pong battle with Sans the Skeleton in Snowdin!!! 
 
 ## Gameplay
-You must deflect the ball and score it until you reach 100 points, but be carefull!!! Sans will be much stornger when you are halfway to the max score!!!
+You must deflect the ball and score it until you reach 100 points, but be carefull!!! Sans will be much stronger when you are halfway to the max score!!!
 
 ## Control
 - W,S : Movement
